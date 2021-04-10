@@ -13,7 +13,7 @@ author: heeju
 
 {% include java-table-of-contents.html %}
 
-깃헙블로그 테스트 해보는 용도
+깃헙블로그 테스트 해보는 용도 완성
 ~~~javascript
 function sytaxHighlight(code){
     var foo = 'Hello World';
