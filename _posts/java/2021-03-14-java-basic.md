@@ -20,3 +20,11 @@ function sytaxHighlight(code){
     var bar = 100;
 }
 ~~~
+~~~html		
+        <div class="hospital_header">
+			<p>동물병원 안내</p><br>
+			<p>화상상담/챗봇 연결을 통해 반려견의 상태를 진단받을 수 있습니다.</p>
+		</div>	
+		
+
+~~~
